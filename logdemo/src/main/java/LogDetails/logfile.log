@@ -1,0 +1,3 @@
+INFO  | 2020-01-28 10:29:30 | [main] logdemo.User (Main.java:19) - inside hello method
+INFO  | 2020-01-28 10:49:10 | [main] logdemo.User (User.java:10) - inside hello method
+INFO  | 2020-01-28 10:58:07 | [main] logdemo.User (User.java:10) - inside hello method
